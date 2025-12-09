@@ -226,15 +226,15 @@ AuthX TOTP 非常重视用户数据的安全性，采用了多层次的安全保
   <table>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/home.png" width="280" alt="主屏幕">
+        <img src="home.png" width="280" alt="主屏幕">
         <br><strong>主屏幕</strong><br>显示所有 TOTP 账户和实时验证码
       </td>
       <td align="center">
-        <img src="assets/screenshots/scanner.png" width="280" alt="扫描界面">
+        <img src="scanner.png" width="280" alt="扫描界面">
         <br><strong>扫描界面</strong><br>二维码扫描快速添加账户
       </td>
       <td align="center">
-        <img src="assets/screenshots/settings.png" width="280" alt="设置界面">
+        <img src="settings.png" width="280" alt="设置界面">
         <br><strong>设置界面</strong><br>主题、备份和安全设置
       </td>
     </tr>

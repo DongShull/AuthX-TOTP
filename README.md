@@ -1,7 +1,7 @@
 # AuthX TOTP 🔐
 
 <p align="center">
-  <img src="assets/icon.png" alt="AuthX TOTP Logo" width="120">
+  <img src="icon.png" alt="AuthX TOTP Logo" width="120">
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="220" alt="主屏幕 - 显示所有 TOTP 账户和验证码"> 
-  <img src="assets/screenshots/scanner.png" width="220" alt="扫描界面 - 二维码扫描添加账户"> 
-  <img src="assets/screenshots/settings.png" width="220" alt="设置界面 - 主题、备份和安全设置">
+  <img src="home.png" width="220" alt="主屏幕 - 显示所有 TOTP 账户和验证码"> 
+  <img src="scanner.png" width="220" alt="扫描界面 - 二维码扫描添加账户"> 
+  <img src="settings.png" width="220" alt="设置界面 - 主题、备份和安全设置">
 </p>
 
 ## 特性 ✨

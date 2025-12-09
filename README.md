@@ -280,4 +280,4 @@ A: 是的，完全开源，欢迎社区贡献和审查。
 <p align="center">
   <strong>🔐 让数字生活更安全</strong><br>
   Made with ❤️ using Flutter
-</p># AuthX-TOTP
+</p>

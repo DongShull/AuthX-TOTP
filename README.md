@@ -1,8 +1,4 @@
-# AuthX TOTP 🔐  <img align="right" width="100" height="100" src="https://github.com/Authenticator-Extension/Authenticator/raw/dev/images/icon.png">
-
-<p align="center">
-  <img src="icon.png" alt="AuthX TOTP Logo" width="120">
-</p>
+# AuthX TOTP 🔐  <img align="right" width="100" height="100" src="https://github.com/DongShull/AuthX-TOTP/blob/main/icon.png">
 
 <p align="center">
   <a href="https://flutter.dev">

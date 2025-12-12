@@ -1,2 +1,0 @@
-ee9e8c9ea5a19b72b386bbe7c145c5c28a02a88230e441bcf0b74face58bd168  AuthX-Beta-1.0.0-beta.3-ios.ipa
-386fd3e79141c0ae15e567a9222c84774f7be05ed3f5ba5847f2f0907236336f  AuthX-Beta-1.0.0-beta.3-macos.dmg
